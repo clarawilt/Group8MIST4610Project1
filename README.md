@@ -8,7 +8,7 @@
 2. Jaelin Cummings
 3. Colby Fielding
 4. Backam Nguyen
-5. Aiman Lalani @aal96125
+5. Aiman Lalani [@aal96125](https://github.com/aal96125)
 
 # Problem Description:
 
