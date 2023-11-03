@@ -51,7 +51,8 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 
 
 # Queries: 
-<img width="658" alt="Screenshot 2023-11-03 at 10 59 16 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/2a3a9a80-1f35-41a0-a5da-a3de671b6670">
+<img width="691" alt="Screenshot 2023-11-03 at 11 49 09 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/6c282913-c752-4958-ba1a-f11b7b4f3b1c">
+
 
 
 1. Query 1 lists the coach name, years of experience, and salary ordered by descending years of experience.
@@ -59,9 +60,12 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 
 Query 1 allows managers to get a good general overview of each coach. Coach salary and years of experience can be essential data points used for         contract negotiations and renewals. It can help both managers and coaches ensure that the terms of the contract are fair and competitive.
 
-2. ***FIX THIS*** 
+2. Query 2 lists the groundkeepers who has the most maintenance jobs.
+<img width="716" alt="Screenshot 2023-11-03 at 11 51 18 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/89f2654c-b91b-41ef-aedb-ed0cd438c862">
 
-3. Query 3 lists the court number and its capacity if the capacity is greater than or equal to 200 and less than 400. 
+Query 2 allows managers to see which groundkeeper has the highest workload. They are then able to consider this groundkeeper for a pay raise or lighten their workload and make it equal between all groundkeepers. 
+
+4. Query 3 lists the court number and its capacity if the capacity is greater than or equal to 200 and less than 400. 
 <img width="620" alt="Screenshot 2023-11-03 at 10 44 49 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/abd359f4-8a4f-43cc-8136-3d8708457a55">
 
 Query 3 is useful because the court capacities determine how many spectators can be accommodated in each stadium or court. This information is crucial for ticket sales and pricing, seating arrangements, and scheduling and match coordination when planning out matches with medium anticipated attendance. 
