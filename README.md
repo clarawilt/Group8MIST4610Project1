@@ -11,3 +11,11 @@
 5. Aiman Lalani
 
 # Problem Description:
+
+# Data Model:
+
+# Data Dictionary: 
+
+# Queries: 
+
+# Database Information:
