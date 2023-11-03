@@ -15,6 +15,13 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 
 
 # Data Model:
+Data Model:  
+Our model represents the Tennis Elite Academy located in Atlanta, Georgia. The model begins with the Member entity, which holds information about the club’s members, including their unique member IDs, names, contact information, membership type, and member affiliated fees. The members can have multiple Coaches, which include their unique ID, their name, years of experience, salary, and point of contact, and the coaches can have multiple members providing a many-to-many relationship through Practices. The practices have unique IDs, dates, and durations of practice length by hours. Many practices can happen on one Court, but only one court is associated with a single practice. The court has attributes consisting of a unique court ID, court number, and court capacity. 
+
+The Events that take place in Elite Tennis Academy have a unique event ID, event name, event date, and event themes (Graduation, Birthday, Retirement, Corporate Events, and Reunions). One Patron can have many bookings, but one booking belongs to one patron. Patrons have attributes containing a unique ID, patron name, and contact information (Phone and Email Address). One court can have many Bookings, consisting of a unique booking ID, date, and fee associated with the booking but one booking belongs to one court. The Elite Tennis Academy has many GroundKeepers that maintain the courts and are identified by a unique ID, full name, years of experience, salary, and point of contact, explaining the many-to-many relationship between courts and groundkeepers, connected by the Maintenance associative table. The maintenance table consists of the maintenance description and the date of maintenance. 
+
+The Elite Tennis Academy hosts many Tournaments which have attributes of tournament ID, name of tournament, date and the number of players in the tournament. Tournaments have many Guests, which consists of their unique ID, the guest’s name, and their type (Adolescent, Adult, Senior) that Attend. The academy consists of multiple Courts which have a unique court ID, their court number, and the capacity it holds. Within the courts are Players (with a unique player ID, their name, their age, and their rank) that participate in Matches that show an many-to-many relationship between players and courts.
+
 
 <img width="716" alt="Screenshot 2023-11-03 at 11 20 08 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/4c0bb67a-67f3-4406-a643-5395670f69c4">
 
@@ -121,3 +128,4 @@ Query 10 would be useful information for management because they can reach out t
 
 
 # Database Information:
+Name of the database: 
