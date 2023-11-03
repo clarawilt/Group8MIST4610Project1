@@ -39,10 +39,10 @@ Query 2 allows managers of the tennis club to see what guests have attended more
 
 Query 3 is useful because the court capacities determine how many spectators can be accommodated in each stadium or court. This information is crucial for ticket sales and pricing, seating arrangements, and scheduling and match coordination when planning out matches with medium anticipated attendance. 
 
-4. Query 4 shows all the information about patrons. ***FIX THIS***
+4. Query 4 shows the member type and the number of members in each type.\
 <img width="623" alt="Screenshot 2023-11-03 at 10 28 04 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/ed336ddb-caea-4968-bdb7-bc900ab68d04">
 
-Query 4 is useful because the management of the tennis club will need to keep in contact with the patrons who have booked the courts for an event. Management may need to email or call patrons in order to iron out details regarding the event that they booked for. 
+Query 4 is useful because the management of the tennis club will need to keep a running tally of each type to maintain their ideal membership total.
 
 5. Query 5 lists the average booking fee among all birthday themed events.
 <img width="623" alt="Screenshot 2023-11-03 at 10 29 11 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/3be97486-001c-4617-b67c-d5111ec2ccc5">
