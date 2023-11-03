@@ -39,8 +39,9 @@ Query 2 allows managers of the tennis club to see what guests have attended more
 
 Query 3 is useful because the court capacities determine how many spectators can be accommodated in each stadium or court. This information is crucial for ticket sales and pricing, seating arrangements, and scheduling and match coordination when planning out matches with medium anticipated attendance. 
 
-4. Query 4 shows the member type and the number of members in each type.\
-<img width="623" alt="Screenshot 2023-11-03 at 10 28 04 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/ed336ddb-caea-4968-bdb7-bc900ab68d04">
+4. Query 4 shows the member type and the number of members in each type.
+<img width="614" alt="Screenshot 2023-11-03 at 11 15 44 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/f2876454-8a70-4eb7-b8d3-da7550fb5402">
+
 
 Query 4 is useful because the management of the tennis club will need to keep a running tally of each type to maintain their ideal membership total.
 
