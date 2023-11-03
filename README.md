@@ -15,9 +15,7 @@
 # Data Model:
 
 # Data Dictionary: 
-![4BA7198C-44A5-4F96-B9C5-A6143F057410](https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/b3061db1-dca4-4028-ab26-f5f139d4f26d)
-![B4E0CA91-0C41-4E64-808A-B2C9980035B0](https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/a7b172ce-c989-4f72-8e33-4235dc360083)
-![8E440139-07AB-4506-A8D1-F16AF2DB0F05](https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/ffdaa042-d2bb-422f-b443-761d335b399f)
+
 
 
 
