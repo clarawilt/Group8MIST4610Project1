@@ -22,19 +22,32 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 # Data Dictionary: 
 <img width="643" alt="Screenshot 2023-11-03 at 11 22 10 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/69cb816f-1350-4359-bbbb-33049647b229">
 
-<img width="625" alt="Screenshot 2023-11-03 at 11 23 43 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/590b7db2-effb-4985-8181-2e6c57e0ec0e">
+<img width="581" alt="Screenshot 2023-11-03 at 11 38 53 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/e1e7e7a3-a729-49a0-bb3a-8348625e4f38">
 
-<img width="626" alt="Screenshot 2023-11-03 at 11 24 24 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/050b3156-85f6-4cce-aba7-8d911e62312d">
+<img width="589" alt="Screenshot 2023-11-03 at 11 39 23 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/358b57fa-dc32-48e8-b277-11bc65f8f2b2">
 
 <img width="635" alt="Screenshot 2023-11-03 at 11 25 22 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/c44d10fb-889e-44ed-8758-fb59839903e1">
 
-<img width="622" alt="Screenshot 2023-11-03 at 11 26 22 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/e65698c0-6170-4035-95ef-5068e8bd9cb0">
+<img width="590" alt="Screenshot 2023-11-03 at 11 41 31 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/bdbb459c-4162-4cf1-9491-d4cee768c5dd">
 
-<img width="624" alt="Screenshot 2023-11-03 at 11 29 23 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/d44a09b2-ef2a-4aa4-acfc-3d44c3c9aa25">
+<img width="574" alt="Screenshot 2023-11-03 at 11 37 40 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/e4d9fe97-7c8e-4ab5-af2d-aa26ea2b2215">
+
+<img width="575" alt="Screenshot 2023-11-03 at 11 38 18 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/559bb1a3-12f2-4ca8-8b89-390fc2288d0d">
+
+<img width="493" alt="Screenshot 2023-11-03 at 11 42 31 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/fd4e3873-b097-4b43-ba0b-0376c264d296">
 
 
+<img width="490" alt="Screenshot 2023-11-03 at 11 43 13 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/e7dd4ad6-0fc5-4afa-bac2-87025a0682f7">
 
+<img width="489" alt="Screenshot 2023-11-03 at 11 43 41 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/37c1f30d-eb6e-4828-b889-e428a9fae539">
 
+<img width="498" alt="Screenshot 2023-11-03 at 11 44 54 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/7fcd245b-3636-4a00-8aba-07cd1a156cb1">
+
+<img width="510" alt="Screenshot 2023-11-03 at 11 45 14 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/4fc376eb-8dda-426a-b5bc-44ff55ff25be">
+
+<img width="327" alt="Screenshot 2023-11-03 at 11 46 49 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/da5d3723-5f2d-4dc8-ad7f-a68b341ea025">
+
+<img width="578" alt="Screenshot 2023-11-03 at 11 47 13 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/868e5ee7-89f7-489f-923f-2ac219fe3885">
 
 
 # Queries: 
