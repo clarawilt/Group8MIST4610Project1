@@ -16,6 +16,7 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 
 # Data Model:
 
+
 # Data Dictionary: 
 
 
