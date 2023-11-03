@@ -16,6 +16,7 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 
 # Data Model:
 
+<img width="716" alt="Screenshot 2023-11-03 at 11 20 08 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/4c0bb67a-67f3-4406-a643-5395670f69c4">
 
 
 # Data Dictionary: 
