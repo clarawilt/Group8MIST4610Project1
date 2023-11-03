@@ -20,6 +20,22 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 
 
 # Data Dictionary: 
+<img width="643" alt="Screenshot 2023-11-03 at 11 22 10 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/69cb816f-1350-4359-bbbb-33049647b229">
+
+<img width="625" alt="Screenshot 2023-11-03 at 11 23 43 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/590b7db2-effb-4985-8181-2e6c57e0ec0e">
+
+<img width="626" alt="Screenshot 2023-11-03 at 11 24 24 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/050b3156-85f6-4cce-aba7-8d911e62312d">
+
+<img width="635" alt="Screenshot 2023-11-03 at 11 25 22 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/c44d10fb-889e-44ed-8758-fb59839903e1">
+
+<img width="622" alt="Screenshot 2023-11-03 at 11 26 22 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/e65698c0-6170-4035-95ef-5068e8bd9cb0">
+
+<img width="624" alt="Screenshot 2023-11-03 at 11 29 23 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/d44a09b2-ef2a-4aa4-acfc-3d44c3c9aa25">
+
+
+
+
+
 
 # Queries: 
 <img width="658" alt="Screenshot 2023-11-03 at 10 59 16 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/2a3a9a80-1f35-41a0-a5da-a3de671b6670">
@@ -30,10 +46,7 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 
 Query 1 allows managers to get a good general overview of each coach. Coach salary and years of experience can be essential data points used for         contract negotiations and renewals. It can help both managers and coaches ensure that the terms of the contract are fair and competitive.
 
-2. Query 2 lists the guest’s name who have attended more than 2 tournaments and how many they have attended.
-<img width="618" alt="Screenshot 2023-11-03 at 10 22 53 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/9481033f-81fa-4972-ac8e-ec95e93533c1">
-
-Query 2 allows managers of the tennis club to see what guests have attended more than half of the tournaments that are played at the club. Since these tournaments bring in revenue, management of the club could potentially offer discounts in the future for guests as a way to show appreciation and incentivize them even more to come back since they already frequently go to the tournaments. 
+2. ***FIX THIS*** 
 
 3. Query 3 lists the court number and its capacity if the capacity is greater than or equal to 200 and less than 400. 
 <img width="620" alt="Screenshot 2023-11-03 at 10 44 49 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/abd359f4-8a4f-43cc-8136-3d8708457a55">
@@ -42,7 +55,6 @@ Query 3 is useful because the court capacities determine how many spectators can
 
 4. Query 4 shows the member type and the number of members in each type.
 <img width="614" alt="Screenshot 2023-11-03 at 11 15 44 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/f2876454-8a70-4eb7-b8d3-da7550fb5402">
-
 
 Query 4 is useful because the management of the tennis club will need to keep a running tally of each type to maintain their ideal membership total.
 
