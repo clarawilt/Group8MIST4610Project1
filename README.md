@@ -15,6 +15,8 @@
 # Data Model:
 
 # Data Dictionary: 
+![4BA7198C-44A5-4F96-B9C5-A6143F057410](https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/b3061db1-dca4-4028-ab26-f5f139d4f26d)
+
 
 # Queries: 
 
