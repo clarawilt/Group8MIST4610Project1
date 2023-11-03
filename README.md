@@ -113,19 +113,7 @@ Query 9 can be useful for program development. Different age groups can influenc
 Query 10 would be useful information for management because they can reach out to these patrons via email or phone. By reaching out to them, they can understand their reasons for not booking an event and address any concerns the patron may have. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Database Information:
-Name of the database: 
+Name of the database: ns_F2329704Group8
+Additional information: Each query listed above is marked in the database using stored procedures which can be called by using the following format: 
+CALL TP_Qx where x is the number of the query. 
