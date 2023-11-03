@@ -115,5 +115,6 @@ Query 10 would be useful information for management because they can reach out t
 
 # Database Information:
 Name of the database: ns_F2329704Group8
+
 Additional information: Each query listed above is marked in the database using stored procedures which can be called by using the following format: 
 CALL TP_Qx where x is the number of the query.
