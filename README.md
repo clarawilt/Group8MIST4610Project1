@@ -20,11 +20,9 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 
 # Data Dictionary: 
 
-
-
-
-
-
 # Queries: 
+***MATRIX GOES HERE***
+
+
 
 # Database Information:
