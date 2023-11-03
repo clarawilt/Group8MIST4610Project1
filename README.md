@@ -50,7 +50,7 @@ The client scenario we are modeling revolves around the operations of Elite Tenn
 <img width="578" alt="Screenshot 2023-11-03 at 11 47 13 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/868e5ee7-89f7-489f-923f-2ac219fe3885">
 
 
-# Queries: 
+# Queries:
 <img width="691" alt="Screenshot 2023-11-03 at 11 49 09 AM" src="https://github.com/clarawilt/Group8MIST4610Project1/assets/131196224/6c282913-c752-4958-ba1a-f11b7b4f3b1c">
 
 
